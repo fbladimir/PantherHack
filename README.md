@@ -1,2 +1,2 @@
 # PantherHack
-PantherHack project, team members: Franklin, Christian, Frank, Sacha. 
+PantherHack project, team members: Franklin, Christian, Bart, Sacha. 
